@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DA569A Lab1</string>
+    <string name="info_text">Information about Gothenburg</string>
+    <string name="first_info">Swedens second largest city</string>
+    <string name="second_info">Founded 1621 by King Gustav II Adolf</string>
+    <string name="third_info">Volvo Car Group</string>
+    <string name="fourth_info">Way Out West</string>
+    <string name="end_info">End of information about Gothenburg</string>
+    <string name="more_info_button">More Info</string>
+</resources>
